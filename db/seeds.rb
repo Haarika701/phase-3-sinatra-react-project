@@ -42,7 +42,7 @@ Item.create(
         What a chair...the gentleman that it was purchased from was from England and during a term of sale at the Castle..he 
         was a lucky Buyer and he traveled to USA with the chair in tow until he came upon Antique Store in Victorville, California
         many years later. It is in great condition.", 
-        imgUrl:"https://i.ebayimg.com/images/g/sSYAAOSwJr5hkHeV/s-l64.jpg")
+        imgUrl:"https://www.waxantiques.com/pub/media/catalog/product/8/3/8392_throne_pin_cushion1_1.jpg")
 
     Item.create(
         user: user1,
@@ -73,14 +73,14 @@ Item.create(
         Measures approx. 17-1/2inches Total Length
         Condition:
         This antique dirk is in very good condition for its age (well over 100 years old!!). The sterling shows very little tarnish and some mild scratching. The leather scabbard shows some loose spots near the inserts for the small knife and fork, however it remains sturdy. The blade still has a light sharpness, and shows wear from use (possibly battle worn!)",
-        imgUrl:"https://i.ebayimg.com/images/g/kwcAAOSwOithbZkg/s-l64.jpg")
+        imgUrl:"https://www.picclickimg.com/d/l400/pict/382440860142_/Antique-1892-Sterling-Silver-Scottish-Gordon-Highlanders-Military.jpg")
 
     Item.create(
         user: user1,
         name: "Antique hand carved Chinese foo dog lion shishi guardian jade statue", 
         price:625000, 
         product_description:"This magnificent, totally hand carved Chinese Foo Dog Lion ShiShi statue is absolutely gorgeous. Jade symbolizes purity, serenity and attracts good luck. This intricately designed piece is a very high quality and was handmade with superior craftsmanship. This massive statue weighs 3,200grams or 7lbs 1oz and is 9.0inches long, 6.0inches tall and has a width of 4.0inches. This exceptional Chinese Foo Dog Lion was handcrafted from jade, which was a popular material for carving small animal figures in the late 19th early 20th century and was much appreciated by the famous Russian jeweler Carl Fabergé. This terrific foo dog was hand carved by a fine Chinese master, this piece is smartly detailed and has a smooth polished surface. The lion was passionately carved from a single piece of wonderful glowing semi-translucent stone, that is cold to the touch. This gorgeous Foo Dog Lion is a true handmade work of art, it would make a great addition to any collection.", 
-        imgUrl:"https://i.ebayimg.com/images/g/3KMAAOSwsFdfrb3n/s-l64.jpg")
+        imgUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU54FLisCm0xv7i8Q6K3t2mxblGbf98T761IcHndqViElZ3n4en7QGhFmqblTjmfsVYiI&usqp=CAU")
 
     Item.create(
         user: user2,
@@ -95,7 +95,7 @@ Item.create(
         Length: 8.7cm
         Width: 5.4 x 2.5cm
         Weight: 253g", 
-        imgUrl:"https://i.ebayimg.com/images/g/7~wAAOSwPOhabxK3/s-l64.jpg")
+        imgUrl:"https://i.pinimg.com/736x/5c/af/f4/5caff4546ce12b02c6e43040800327b6.jpg")
 
     Item.create(
         user: user1,
@@ -109,7 +109,7 @@ Item.create(
         48mm high.
         64g heavy.
         It comes with an APPRAISAL CERTIFICATE FOR $7000", 
-        imgUrl:"https://i.ebayimg.com/images/g/Hv0AAOSwSShhi7G2/s-l64.jpg")
+        imgUrl:"https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/Zr4AAOSwaRFgKKc1/$_1.JPG")
 
     Item.create(
         user: user2,
@@ -117,7 +117,7 @@ Item.create(
         price:839999, 
         product_description:"An artwork by American artist Oscar F. Bluemner (1867 - 1938) of Harlem River, New York City, June 18, 1910, of the 2nd Avenue  Railroad  Bridge, signed OFB lower right.  Colored pencil, pencil, and crayon measuring approximately 4 3/4 x 7 inches in a later frame behind glass measuring approximately 15 x 18 inches. Brilliant colors and fine condition as pictured. Thanks for looking.
         OSCAR FLORIANUS BLUEMNER (18671938) Oscar Bluemner, known for his expressive use of color and Cubist influenced works, was born in 1867 in Hanover, Germany. After studying architecture and design in Berlin, Bluemner left Germany in 1892, moving to Chicago, where he was employed as a draftsman for the Worlds Columbian Exposition. He settled in New York in 1901, and his successful design for New Yorks Bronx Borough Courthouse in 1904 gave him recognition as an architect and designer. Disillusioned with public commissions, he spent the next few years designing private houses. Committed to his theories of color, he turned away from architecture to devote his life to painting. In 1913 Bluemner exhibited in the Armory Show and gained the support ofAlfred Stieglitz, who in 1915 gave the artist a one-man exhibition at his 291 gallery and published Bluemners work inCamera Work. As a color theorist, Bluemner was interested in how pure color carried emotional and psychological impact. Up until the 1920s, his oil paintings, typically showing blocky buildings and abstract landscape motifs, reveal the influence his architectural studies as well as that of Cubism and American Synchronism, which emphasized the abstract use of color. However, Bluemner was concerned with simplifying reality rather than employing pure abstraction. Intent on creating dramatic and emotional works, Bluemner used bold colors in daring combinations and forms to evoke mood. During the 1920s he was a master of both oil painting and watercolor, a medium that satisfied his interest in varying levels and effects of color saturation achieved through washes of pigment. In his later works, Bluemner expanded his earlier repertoire of architectural and landscape motifs to focus on natural forces and phenomena, emphasizing the forces of nature, for example, in a series of symbolic images of the sun and the moon. No matter what the subject matter, Bluemner always insisted on the primacy of color as a source of power and energy in his images. In the 1930s, he was employed by the WPA Federal Project, painting rhythmic and evocative compositions inspired by music and Freuds theories of the unconscious. Highly regarded early in his career, his self-aggrandizing and difficult personality led to his estrangement from the mainstream art world, though his work was included in important exhibitions such as Abstract Painting in American Art held at the Whitney Museum of American Art in 1935. Nevertheless, feeling unappreciated and depressed, Bluemner took his own life in 1938. Source: The Phillips Collection", 
-        imgUrl:"https://i.ebayimg.com/images/g/yBAAAOSw~tJd8quI/s-l64.jpg")
+        imgUrl:"https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fa0KSRivw75HEyhXd9px_rg%2Flarge.jpg&width=445&height=339&quality=80")
 
     Item.create(
         user: user1,
@@ -130,7 +130,7 @@ Item.create(
         Height: 22cm
         Width: 23 x 12cm
         Weight: 535g", 
-        imgUrl:"https://i.ebayimg.com/images/g/pFcAAOSw9ClcbuQT/s-l64.jpg")
+        imgUrl:"https://images.squarespace-cdn.com/content/v1/5452676ee4b00dcbe77b3ec7/1550831199910-W8CSSJNMPLS4CJUS7MDJ/pushkin+antiques+-+ANTIQUE+19thC+GEORGIAN+SOLID+SILVER+FOX+STIRRUP+CUP%2C+REILY+%26+STORER+c.1832+-+4.jpg?format=1000w")
 
     Item.create(
         user: user2,
