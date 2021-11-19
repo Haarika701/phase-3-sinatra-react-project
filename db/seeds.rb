@@ -57,7 +57,7 @@ Item.create(
         OVERALL SIZE 645 X 54CM APPROX. ENGRAVING IN EXCELLENT CONDITION. OLD FRAME HAS SOME DAMAGE. MOUNT AND BASE OF ENGRAVING HAVE SOME FOXING AND MARKS. REMAINS OF OLD FRAMING LABEL VERSO.
         EVEN THE BACKING I BELIEVE IS STILL ORIGINAL AS IT IS MADE OF WOOD
         ", 
-        imgUrl:"https://i.ebayimg.com/images/g/hl4AAOSweldhJOx-/s-l64.jpg")
+        imgUrl:"https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/napoleon-in-egypt-1799-print-collector.jpg")
 
     Item.create(
         user: user2,
